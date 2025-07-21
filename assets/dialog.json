@@ -1,0 +1,55 @@
+{
+    "fromMe": [{
+        "id": "0000",
+        "details": [
+            [
+                "宝宝！",
+                "今天是我们在一起的第二年",
+                "在英国有没有想我呀！",
+                "我记得好久好久之前",
+                "你和我说过想去日本",
+                "<img src='img/inpast.jpg'>",
+                "于是在今年",
+                "我们真的去了日本！还有好吃的葡萄冰激凌！",
+                "<img src='img/myicecream.jpg'>",
+                "我们还在那天做了摩天轮",
+                "<img src='img/skywheel.jpg'>",
+                "在前一天去了USJ",
+                "偷偷拍了你顶砖块的照片",
+                "<img src='img/mario.jpg'>",
+                "和你在一起的每一天",
+                "我都觉得特别特别开心！",
+                "<img src='img/icecream.jpg'>",
+                "我们在神社一起祈福",
+                "<img src='img/yushou.jpg'>",
+                "一起穿堂吉诃德出门上街",
+                "<img src='img/metrofeet.jpg'>",
+                "还有在公园里你像小孩子一样滑滑梯",
+                "<img src='img/child1.jpg'>",
+                "<img src='img/child2.jpg'>",
+                "我知道你现在的表情一定是这个",
+                "<img src='img/duzui.jpg'>",
+                "(○｀ 3′○)",
+                "在最后，宝宝",
+                "你会永远和我在一起吗？"
+            ]
+        ],
+        "responses": [{
+            "content": "会呀！",
+            "nextAuthor": ["0001"]
+        }]
+    }, {
+        "id": "0001",
+        "details": [
+            [
+                "<img src='img/fucku.jpg'>",
+                "嘻嘻",
+                "你没有选择！",
+                "因为你已经和我死死捆绑在一起了！",
+                "我会和宝宝一直一直在一起",
+                "直到永远"
+            ]
+        ]
+    }],
+    "fromUser": []
+}
